@@ -1,0 +1,52 @@
+{
+  "ruyalar": [
+    {
+      "id": 1,
+      "baslik": "Deniz Görmek",
+      "tabir": "Deniz görmek genellikle huzur ve bolluk anlamına gelir. Rüyayı gören kişinin duygusal durumu ve iç huzuru iyiyse, deniz görmek olumlu bir işarettir.",
+      "kategori": "Doğa"
+    },
+    {
+      "id": 2,
+      "baslik": "Uçmak",
+      "tabir": "Uçmak, özgürlük ve yüksek hedeflere ulaşma isteğini simgeler. Ancak rüyada uçmak bazen kontrol kaybını veya kaçış arzusunu ifade edebilir.",
+      "kategori": "Mistik"
+    },
+    {
+      "id": 3,
+      "baslik": "Düşmek",
+      "tabir": "Düşmek, genellikle güvensizlik veya kaybetme korkusu ile ilişkilidir. Ancak bazen rüyada düşmek, bir durumdan kurtulma veya bir şeyden vazgeçme ihtiyacını ifade edebilir.",
+      "kategori": "Negatif"
+    },
+    {
+      "id": 4,
+      "baslik": "Orman Görmek",
+      "tabir": "Orman görmek, bilinçaltındaki karmaşıklığı veya gizemi temsil edebilir. Rüya sahibinin içsel dünyasındaki keşiflere işaret edebilir.",
+      "kategori": "Doğa"
+    },
+    {
+      "id": 5,
+      "baslik": "Köpek Görmek",
+      "tabir": "Köpek görmek genellikle sadakat ve dostluğu simgeler. Rüyayı gören kişiye yakın bir arkadaşının desteğini alacağına işaret edebilir.",
+      "kategori": "Hayvanlar"
+    },
+    {
+      "id": 6,
+      "baslik": "Yangın",
+      "tabir": "Yangın görmek, duygusal bir patlamayı veya içsel sıkıntıyı ifade edebilir. Rüya sahibinin yaşamında yoğun duygusal bir döneme girebileceğine işaret edebilir.",
+      "kategori": "Negatif"
+    },
+    {
+      "id": 7,
+      "baslik": "Gökyüzüne Bakmak",
+      "tabir": "Gökyüzüne bakmak, umut ve geniş perspektif arayışını simgeler. Rüyada gökyüzü açıksa, kişinin gelecekte olumlu gelişmeler yaşayabileceğine işaret edebilir.",
+      "kategori": "Mistik"
+    },
+    {
+      "id": 8,
+      "baslik": "Eski Arkadaşı Görmek",
+      "tabir": "Eski arkadaşı görmek, geçmişle hesaplaşma veya unutulmuş duyguların tekrar gündeme gelmesi anlamına gelebilir. Bu rüya kişinin geçmişiyle yüzleşmesine işaret edebilir.",
+      "kategori": "İnsanlar"
+    }
+  ]
+}
